@@ -1,11 +1,9 @@
-# landing-page-project
-A simple responsive landing page using HTML and CSS
-# Responsive Landing Page
-
-
 GitHub Pages URL (live landing page):
 https://hksx.github.io/landing-page-project/
 
+# landing-page-project
+A simple responsive landing page using HTML and CSS
+# Responsive Landing Page
 
 ## Project Overview
 
