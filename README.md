@@ -2,6 +2,11 @@
 A simple responsive landing page using HTML and CSS
 # Responsive Landing Page
 
+
+GitHub Pages URL (live landing page):
+https://hksx.github.io/landing-page-project/
+
+
 ## Project Overview
 
 This is a simple, responsive **landing page** built using **HTML5** and **CSS3**. The page features a **header** with a logo and navigation links, a **hero section** with a call-to-action (CTA) button, a **services section** with three cards, and a **footer** with social media links. The design is fully **responsive**, using **Flexbox** and **media queries** to adjust the layout for various screen sizes.
